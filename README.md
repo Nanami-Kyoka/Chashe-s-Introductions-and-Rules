@@ -19,7 +19,7 @@
 - 一个你想来就来 想走就走的服务器
 - 无需下载客户端 多人游戏输入『chashe.ink』
 - 由于不可抗力，上述地址**仅支持** **[IPv6直连](https://www.test-ipv6.com/index.html.zh_CN)**
-- IPv4连接需进[群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fcXCxpM_Lyezgo8Va4HHrFRs_UApptQx&authKey=bmXi7kc2EekvVwrcnm3epwD9YtcZu3k8URZWF8VS5s1d3gmnZiCwNzJ3x9QNF60B&noverify=0&group_code=428758930)获取内网穿透工具或[点我下载]([https://www.mcbbs.net/thread-1411437-1-1.html](https://raw.githubusercontent.com/Nanami-Kyoka/ChasheInvitationsRules-and-Issues/main/ipv4%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7.zip?token=GHSAT0AAAAAACDDGPZIJSI3UENJKYDBITZEZDUZCTA)
+- IPv4连接需进[群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fcXCxpM_Lyezgo8Va4HHrFRs_UApptQx&authKey=bmXi7kc2EekvVwrcnm3epwD9YtcZu3k8URZWF8VS5s1d3gmnZiCwNzJ3x9QNF60B&noverify=0&group_code=428758930)获取内网穿透工具或[点我下载](https://raw.githubusercontent.com/Nanami-Kyoka/ChasheInvitationsRules-and-Issues/main/ipv4%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7.zip?token=GHSAT0AAAAAACDDGPZIJSI3UENJKYDBITZEZDUZCTA)
 
 ## 关于
 
