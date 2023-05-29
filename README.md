@@ -57,6 +57,8 @@
 
 ## 注意
 
+- 首先，问问题前请看这个[点我,不看把你麻麻吃了](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
 - 为了营造服务器良好氛围，请自觉维护服务器环境
 
 - 绝对禁止恶意破坏他人劳动成果
