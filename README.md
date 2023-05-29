@@ -71,9 +71,13 @@
 
 - 举报和上报bug都会有对应的奖励措施
 
-  
-
 ## 常见问题
+
+**如何提问？**
+
+[提问方式](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+在你确保已经认真阅读以上链接并能够正确得提问的前提下，在[群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fcXCxpM_Lyezgo8Va4HHrFRs_UApptQx&authKey=bmXi7kc2EekvVwrcnm3epwD9YtcZu3k8URZWF8VS5s1d3gmnZiCwNzJ3x9QNF60B&noverify=0&group_code=428758930)里或者上面的 issues 中，皆可提问
+
 
 **无法连接服务器？**
 
@@ -94,7 +98,6 @@
 **如何获取本服货币？**
 
 唯一指定货币来源：钻石！通过 SHIFT+F打开菜单，点击钻石图标打开兑换窗口，1钻石=100货币
-
 
 
 ## **联系方式**
