@@ -103,6 +103,6 @@
 
 ## **联系方式**
 
-欢迎你的加入！
+欢迎你的加入（就算不玩游戏来聊聊天也可以呀）！
 
 群号：[428758930](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fcXCxpM_Lyezgo8Va4HHrFRs_UApptQx&authKey=bmXi7kc2EekvVwrcnm3epwD9YtcZu3k8URZWF8VS5s1d3gmnZiCwNzJ3x9QNF60B&noverify=0&group_code=428758930),KOOK:https://kook.top/U3k5Vt
