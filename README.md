@@ -18,7 +18,7 @@
 - 一个兴趣使然的服务器
 - 一个你想来就来 想走就走的服务器
 - 无需下载客户端 多人游戏输入『chashe.ink』
-- 由于不可抗力，上述地址**仅支持** **[IPv6直连](https://www.test-ipv6.com/index.html.zh_CN)**
+- 由于不可抗力，上述地址**仅支持** **[IPv6直连](https://www.test-ipv6.cn/)**
 - IPv4连接为frp转发延迟较高『v4.chashe.ink』
 
 ## 关于
