@@ -82,7 +82,7 @@
 
 **无法连接服务器？**
 
-检查有无[IPv6](https://www.test-ipv6.com/index.html.zh_CN)若无，请进[群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fcXCxpM_Lyezgo8Va4HHrFRs_UApptQx&authKey=bmXi7kc2EekvVwrcnm3epwD9YtcZu3k8URZWF8VS5s1d3gmnZiCwNzJ3x9QNF60B&noverify=0&group_code=428758930)获取IPv4连接工具或[点我下载IPv4连接工具](https://github.com/Nanami-Kyoka/ChasheInvitationsRules-and-Issues/raw/main/ipv4%E8%BF%9E%E6%8E%A5%E5%B7%A5%E5%85%B7.zip)
+检查有无[IPv6](https://www.test-ipv6.com/index.html.zh_CN)若无，请进[群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=fcXCxpM_Lyezgo8Va4HHrFRs_UApptQx&authKey=bmXi7kc2EekvVwrcnm3epwD9YtcZu3k8URZWF8VS5s1d3gmnZiCwNzJ3x9QNF60B&noverify=0&group_code=428758930)
  
 
 **服务器种子？**
