@@ -19,7 +19,7 @@
 - 一个你想来就来 想走就走的服务器
 - 无需下载客户端 多人游戏输入『chashe.ink』
 - 由于不可抗力，上述地址**仅支持** **[IPv6直连](https://testipv6.cn/)**
-- IPv4连接为frp转发延迟较高『v4.chashe.ink』
+- IPv4连接为frp转发延迟较高『mc.chashe.ink』
 
 ## 关于
 
